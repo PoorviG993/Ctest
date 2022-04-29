@@ -1,1 +1,1 @@
-# Ctest List of very baic c-programs .
+# Ctest List of very basic c-programs .
